@@ -14,10 +14,10 @@ This Python bot monitors system authentication logs and detects multiple failed 
 1. Create and activate Python virtual environment:
 python -m venv venv
 
-## Activate on Windows:
+Activate on Windows:
 .\venv\Scripts\activate
 
-## Activate on Linux/macOS:
+Activate on Linux/macOS:
 source venv/bin/activate
 
 2. Install dependencies:
