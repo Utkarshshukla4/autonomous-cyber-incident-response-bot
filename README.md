@@ -84,6 +84,18 @@ _Linux:_
 
 python3 incident_response_bot.py
 
+## Input Example
+
+Simulated log file or real-time security feed.
+
+## Output Example
+
+Detected:- Unauthorized Access Attempt
+
+Response:- Firewall rule updated 
+
+Status:- Mitigated
+
 ## Summary
 
 This bot automates detection and mitigation of common cyber threats, reducing manual intervention.
