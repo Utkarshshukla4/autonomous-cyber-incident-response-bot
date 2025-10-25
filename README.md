@@ -19,7 +19,7 @@ The Autonomous Cyber Incident Response Bot is an intelligent cybersecurity autom
 - Simulates IP blocking on detection
 - Alert Reporting
 - Detects anomalies based on behavioral patterns.
-- 
+  
 ##  Architecture
 
 [Network / System Event]
@@ -57,9 +57,9 @@ pip install -r requirements.txt  {WINDOWS}
 python3 -m pip install -r requirements.txt  {LINUX}
 
 
-## Setup & Running
+## Setup 
 
-1. Create and activate Python virtual environment:
+ Create and activate Python virtual environment:
 
 _Windows:_
 
@@ -74,7 +74,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 
-2. Run the bot:
+## Running
    
 _Windows:_
 
