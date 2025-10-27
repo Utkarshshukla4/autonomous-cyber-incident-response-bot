@@ -1,11 +1,3 @@
-## Contact
-
-**Utkarsh Shukla**
-
-Email- utqrshkumar07@gmail.com
-
-GitHub- https://github.com/Utkarshshukla4
-
 
 ##  Overview
 
@@ -32,6 +24,15 @@ The Autonomous Cyber Incident Response Bot is an intelligent cybersecurity autom
       ↓
 [Report Generation]
 
+## What This Does
+
+-Monitors systems for malicious activity or policy violations.
+
+-Automatically investigates, classifies, and responds to detected incidents.
+
+-Executes real-time defensive actions such as isolating affected systems or blocking IPs.
+
+-Reduces response time and enhances overall cyber resilience.
 
 ## Project Structure
 
@@ -99,3 +100,13 @@ Status:- Mitigated
 ## Summary
 
 This bot automates detection and mitigation of common cyber threats, reducing manual intervention.
+
+## Contact
+
+**Utkarsh Shukla**
+
+Email- utqrshkumar07@gmail.com
+
+GitHub- https://github.com/Utkarshshukla4
+
+
