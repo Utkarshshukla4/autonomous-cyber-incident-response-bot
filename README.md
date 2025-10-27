@@ -49,9 +49,11 @@ cir-bot/
 
 ##  Installation
 
-git clone https://github.com/yourusername/autonomous-cyber-incident-response-bot.git
+git clone https://github.com/Utkarshshukla4/autonomous-cyber-incident-response-bot.git
 
 cd autonomous-cyber-incident-response-bot
+
+## Dependencies
 
 pip install -r requirements.txt  {WINDOWS}
 
@@ -104,6 +106,8 @@ This bot automates detection and mitigation of common cyber threats, reducing ma
 ## Contact
 
 **Utkarsh Shukla**
+
+_Cybersecurity Enthusiast_
 
 Email- utqrshkumar07@gmail.com
 
